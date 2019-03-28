@@ -12,4 +12,3 @@ Full CRUD operation ASP.NET MVC 5 framework intergrated with Entity Framework 6 
 
 
 
-Hello
